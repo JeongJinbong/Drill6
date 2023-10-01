@@ -52,7 +52,6 @@ def movetohand():
         if i == 100-1:
             cx, cy = hx, hy
 
-
 while running:
     movetohand()
     handle_events()
